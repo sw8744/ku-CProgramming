@@ -1,0 +1,3 @@
+﻿  practice_2.cpp
+C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day1\practice_2\practice_2.cpp(4,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  practice_2.vcxproj -> C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day1\practice_2\x64\Debug\practice_2.exe
