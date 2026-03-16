@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day2_260316\Programming Practice #2\main.c(11,9): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day2_260316\Programming Practice #2\main.c(4,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Programming Practice #2.vcxproj -> C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day2_260316\Programming Practice #2\x64\Debug\Programming Practice #2.exe
