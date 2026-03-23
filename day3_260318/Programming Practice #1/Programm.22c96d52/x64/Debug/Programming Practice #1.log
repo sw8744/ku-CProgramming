@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day3_260318\Programming Practice #1\main.c(8,14): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Programming Practice #1.vcxproj -> C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day3_260318\Programming Practice #1\x64\Debug\Programming Practice #1.exe
