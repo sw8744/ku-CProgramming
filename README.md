@@ -116,3 +116,17 @@ scanf() 함수를 사용하여 받아온 문자의 값들을 이용하여 문자
 
 ### [Lab Assignment #3](https://github.com/sw8744/ku-CProgramming/blob/main/day9_260408/Lab%20Assignment%20%233/main.c)
 2보다 큰 자연수 n에 대하여 피보나치 수를 반환하는 함수 f(n)의 값을 반복하여 출력하는 프로그램.
+
+## day10 (260413)
+
+### [Programming Practice #2](https://github.com/sw8744/ku-CProgramming/blob/main/day10_260413/Programming%20Practice%20%232/main.c)
+`evil1`과 `evil2` 중 어느 것이 더 작은 지 출력하는 프로그램.
+
+### [Programming Practice #3](https://github.com/sw8744/ku-CProgramming/blob/main/day10_260413/Programming%20Practice%20%233/main.c)
+중첩 for문을 사용하여 줄 별로 A에서 F까지 출력하고, 다음 줄부터 가장 아스카 코드가 큰 값을 제거해 가며 피라미드 형태로 알파벳을 배열하는 프로그램.
+
+### [Lab Assignment #4](https://github.com/sw8744/ku-CProgramming/blob/main/day10_260413/Lab%20Assignment%20%234/main.c)
+사용자가 입력한 메뉴 문자에 따라 사칙연산을 수행하고, 종료(Q) 명령 전까지 이를 반복 동작하는 프로그램.
+
+### [Lab Assignment #5](https://github.com/sw8744/ku-CProgramming/blob/main/day10_260413/Lab%20Assignment%20%235/main.c)
+중첩 for문을 사용하여 알파벳 ‘A’부터 ‘F’까지 역순으로 하나씩 추가하며 출력하는 코드를 작성하는 프로그램.
