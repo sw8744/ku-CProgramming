@@ -14,7 +14,7 @@ int main(void) {
 		printf("두 번째 점의 좌표를 입력하시오: ");
 		scanf("%d %d", &x2, &y2);
 
-		printf("두 점 사이의 거리는 %lf입니다.\n", dist(x1, x2, y1, y2));
+		printf("두 점 사이의 거리는 %lf입니다.\n", dist(x1, y1, x2, y2));
 		
 		printf("다시 수행하시겠습니까? (y/n): ");
 		while ((ch = getchar()) == '\n');
@@ -24,7 +24,7 @@ int main(void) {
 	}
 }
 
-double dist(int x1, int x2, int y1, int y2) {
+double dist(int x1, int y1, int x2, int y2) {
 	int delta_x, delta_y;
 
 	delta_x = x1 - x2;
