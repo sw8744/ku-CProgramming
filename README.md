@@ -130,3 +130,15 @@ scanf() 함수를 사용하여 받아온 문자의 값들을 이용하여 문자
 
 ### [Lab Assignment #5](https://github.com/sw8744/ku-CProgramming/blob/main/day10_260413/Lab%20Assignment%20%235/main.c)
 중첩 for문을 사용하여 알파벳 ‘A’부터 ‘F’까지 역순으로 하나씩 추가하며 출력하는 코드를 작성하는 프로그램.
+
+
+## day11 (260415)
+
+### [Practice #1](https://github.com/sw8744/ku-CProgramming/blob/main/day11_260415/Practice%20%231/main.c)
+사용자로부터 화씨 온도를 입력받고 이를 섭씨 온도를 계산해 출력하는 함수 `f_to_C()`.
+
+### [Practice #2](https://github.com/sw8744/ku-CProgramming/blob/main/day11_260415/Practice%20%232/main.c)
+매개 변수로 입력받은 화씨 온도를 섭씨 온도를 계산해 출력하는 함수 `f_to_C(float)`.
+
+### [Lab Assignment #1](https://github.com/sw8744/ku-CProgramming/blob/main/day11_260415/Lab%20Assignment%20%231/main.c)
+매개 변수로 입력받은 두 2차원 좌표값을 바탕으로 유클리드 거리를 계산해 주는 함수 `dict(int, int, int, int)`.
