@@ -142,3 +142,17 @@ scanf() 함수를 사용하여 받아온 문자의 값들을 이용하여 문자
 
 ### [Lab Assignment #1](https://github.com/sw8744/ku-CProgramming/blob/main/day11_260415/Lab%20Assignment%20%231/main.c)
 매개 변수로 입력받은 두 2차원 좌표값을 바탕으로 유클리드 거리를 계산해 주는 함수 `dict(int, int, int, int)`.
+
+## day12 (260420)
+
+### [Practice #3](https://github.com/sw8744/ku-CProgramming/blob/main/day12_260420/Practice%20%233/main.c)
+라이브러리 함수 `rand()`를 통해 원하는 만큼 임의의 정수를 출력하는 함수 `get_integer(int)`.
+
+### [Practice #4](https://github.com/sw8744/ku-CProgramming/blob/main/day12_260420/Practice%20%234/main.c)
+사용자의 방향키 입력을 통해 방향키 방향대로 * 문자를 출력하는 프로그램.
+
+### [Lab Assignment #2](https://github.com/sw8744/ku-CProgramming/blob/main/day12_260420/Lab%20Assignment%20%232/main.c)
+Practice #2의 프로그램을 수정하여 궤적이 뜨지 않도록 * 문자를 움직이는 프로그램.
+
+### [Lab Assignment #3](https://github.com/sw8744/ku-CProgramming/blob/main/day12_260420/Lab%20Assignment%20%233/main.c)
+컴퓨터와 가위바위보를 진행하는 프로그램.
