@@ -1,0 +1,21 @@
+﻿  fib.c
+  fib_iter.c
+  main.c
+  코드를 생성하고 있습니다...
+C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day14_260504\Programming Practice #2\main.c(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+      C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day14_260504\Programming Practice (11,9):
+      서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+      C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day14_260504\Programming Practice (11,9):
+      서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+      C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day14_260504\Programming Practice (11,9):
+      서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day14_260504\Programming Practice #2\main.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+      C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day14_260504\Programming Practice (15,9):
+      서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+      C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day14_260504\Programming Practice (15,9):
+      서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+      C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day14_260504\Programming Practice (15,9):
+      서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+  Programming Practice #2.vcxproj -> C:\Users\thislife_won\Desktop\dev\ku-CProgramming\day14_260504\Programming Practice #2\x64\Debug\Programming Practice #2.exe
