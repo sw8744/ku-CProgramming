@@ -169,3 +169,14 @@ Practice #2의 프로그램을 수정하여 궤적이 뜨지 않도록 * 문자�
 
 ### [Lab Assignment #2](https://github.com/sw8744/ku-CProgramming/blob/main/day14_260504/Lab%20Assignment%20%232/main.c)
 문장을 입력받고 거꾸로 출력하는 함수 `reverse()`
+
+## day15 (260506)
+
+### [Practice #1](https://github.com/sw8744/ku-CProgramming/blob/main/day15_260506/Practice%20%231/main.c)
+10개의 랜덤한 정수들을 배열에 저장하고 출력하는 프로그램.
+
+### [Practice #2](https://github.com/sw8744/ku-CProgramming/blob/main/day15_260506/Practice%20%232/main.c)
+배열을 활용하여 알파벳 소문자를 배열에 저장하고 순서대로 출력하는 프로그램.
+
+### [Practice #3](https://github.com/sw8744/ku-CProgramming/blob/main/day15_260506/Practice%20%233/main.c)
+배열을 사용한 십진수를 이진수로 변환하여 출력하는 프로그램.
