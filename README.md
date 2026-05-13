@@ -180,3 +180,25 @@ Practice #2의 프로그램을 수정하여 궤적이 뜨지 않도록 * 문자�
 
 ### [Practice #3](https://github.com/sw8744/ku-CProgramming/blob/main/day15_260506/Practice%20%233/main.c)
 배열을 사용한 십진수를 이진수로 변환하여 출력하는 프로그램.
+
+## day16 (260511)
+
+### [Practice #4](https://github.com/sw8744/ku-CProgramming/blob/main/day16_260511/Practice%20%234/main.c)
+사용자에게 5글자의 무작위 알파벳 소문자를 2초 동안 보여준 뒤, 이를 기억해 정확히 입력하도록 하는 기억력을 테스트하는 프로그램.
+
+### [Lab Assignment #1](https://github.com/sw8744/ku-CProgramming/blob/main/day16_260511/Lab%20Assignment%20%231/main.c)
+`Practice #4`를 사용자가 “y” 또는 “Y”를 입력하기 전까지 반복시키는 프로그램.
+
+### [Lab Assignment #2](https://github.com/sw8744/ku-CProgramming/blob/main/day16_260511/Lab%20Assignment%20%232/main.c)
+0부터 99까지의 랜덤한 정수로 이루어진 5×5 크기의 행렬을 만들고, 해당 행렬의 행 별 원소의 합, 최댓값, 최솟값 및 평균값을 구해 출력하고, 해당 연산을 행렬의 열로 연산하여 출력하는 프로그램.
+
+### [Lab Assignment #3](https://github.com/sw8744/ku-CProgramming/blob/main/day16_260511/Lab%20Assignment%20%233/main.c)
+100자 이하의 문자열이 입력으로 주어졌을 때 해당 문자열 안의 알파벳 개수가 각각 어떻게 되는지 세고 출력하는 프로그램.
+
+### day17 (260513)
+
+### [Practice #1](https://github.com/sw8744/ku-CProgramming/blob/main/day17_260513/Practice%20%231/main.c)
+x와 y중 작은 값에 큰 값을 대입하는 함수 `larger_of()`.
+
+### [Lab Assignment #1](https://github.com/sw8744/ku-CProgramming/blob/main/day17_260513/Lab%20Assignment%20%231/main.c)
+실수를 입력하면 정수부와 소수부로 나누어 주는 함수 `get_int_real()`.
