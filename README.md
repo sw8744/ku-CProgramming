@@ -202,3 +202,32 @@ x와 y중 작은 값에 큰 값을 대입하는 함수 `larger_of()`.
 
 ### [Lab Assignment #1](https://github.com/sw8744/ku-CProgramming/blob/main/day17_260513/Lab%20Assignment%20%231/main.c)
 실수를 입력하면 정수부와 소수부로 나누어 주는 함수 `get_int_real()`.
+
+## day18 (260518)
+
+### [Practice #1](https://github.com/sw8744/ku-CProgramming/blob/main/day18_260518/Practice%20%231/main.c)
+랜덤 5자리 문자열을 5초 동안 보여준 뒤, 이를 기억해 정확히 입력하도록 하는 프로그램.
+
+## day19 (260527)
+
+### [Practice #1](https://github.com/sw8744/ku-CProgramming/blob/main/day19_260520/Practice%20%231/main.c)
+이중 포인터를 이용한 랜덤 인덱스의 문자열을 출력하는 프로그램.
+
+### [Lab Assignment #1](https://github.com/sw8744/ku-CProgramming/blob/main/day19_260520/Lab%20Assignment%20%231/main.c)
+구조체를 활용하여 벡터의 덧셈, 뺄셈, 내적, 스칼라 곱, 크기를 계산하는 프로그램.
+
+### [Lab Assignment #2](https://github.com/sw8744/ku-CProgramming/blob/main/day19_260520/Lab%20Assignment%20%232/main.c)
+구조체를 활용하여 학생의 이름, 학번, 학과, 전화번호를 저장, 검색, 출력하는 프로그램.
+
+## day20 (260601)
+
+### [Practice #2](https://github.com/sw8744/ku-CProgramming/blob/main/day20_260601/Practice%20%232/main.c)
+이차원 배열의 전체 합을 구하는 프로그램.
+
+### [Lab Assignment #3](https://github.com/sw8744/ku-CProgramming/blob/main/day20_260601/Lab%20Assignment%20%233/main.c)
+포인터를 활용한 배열 탐색을 활용하여 배열을 복사하고 출력하는 프로그램.
+
+## day21 (260608)
+
+### [Practice #1](https://github.com/sw8744/ku-CProgramming/blob/main/day21_260608/Practice%20%231/main.c)
+연결 리스트를 활용하여 리스트의 뒤쪽에 노드를 추가하는 프로그램.
