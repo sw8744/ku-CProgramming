@@ -157,6 +157,9 @@ Practice #2의 프로그램을 수정하여 궤적이 뜨지 않도록 * 문자�
 ### [Lab Assignment #3](https://github.com/sw8744/ku-CProgramming/blob/main/day12_260420/Lab%20Assignment%20%233/main.c)
 컴퓨터와 가위바위보를 진행하는 프로그램.
 
+---
+여기부터 기말 범위
+
 ## day13 (260429)
 
 ### [Lab Assignment #1](https://github.com/sw8744/ku-CProgramming/blob/main/day13_260429/Lab%20Assignment%20%231/main.c)
